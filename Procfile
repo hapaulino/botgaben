@@ -1,1 +1,1 @@
-Worker: node ./src/gaben.js
+Worker: node gaben.js

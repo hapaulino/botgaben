@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 module.exports = {
     name: 'mirage',
 	description: 'List of Inferno smokes.',
@@ -178,5 +177,4 @@ module.exports = {
 					{name: "mirage-window-under, mrg-window-under",
 					value: "Window smoke from Underpass."},
 			]}})
->>>>>>> Stashed changes
 		}}}

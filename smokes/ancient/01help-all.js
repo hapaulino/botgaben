@@ -10,7 +10,7 @@ module.exports = {
 				title: "Hey future pro!",
 				description: "Here's the list of Ancient smokes for the A Bomb-Site.",
 				fields: [
-					{name: "ancient-a-cross, anc-a-cross",
+					{name: "ancient-cross, anc-cross",
 					value: "A Bomb Site cross smoke from Yard."},
 					{name: "ancient-main-ct, anc-main-ct",
 					value: "A Main smoke from CT."},
